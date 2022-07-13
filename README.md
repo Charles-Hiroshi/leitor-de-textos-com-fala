@@ -1,4 +1,4 @@
-# Buscador de Letras de Músicas
+# Leitor de Textos com Fala
 
 🔈 Aplicação desenvolvida em Javascript puro.
 
